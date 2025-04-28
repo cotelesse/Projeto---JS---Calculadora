@@ -20,12 +20,12 @@ body {
 
 input {
     display: flex;
-    width: 43.5vh;
+    width: 43vh;
     height: 75px;
     font-size: 24px;
     margin-bottom: 10px;
     border-radius: 6px;
-    background: #fff;
+    background: #777;
     color: #000;
     text-align: end;
 }
